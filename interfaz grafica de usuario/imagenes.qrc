@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>abajo.png</file>
+        <file>arriba.png</file>
+        <file>derecha.png</file>
+        <file>flecha_ab.png</file>
+        <file>flecha_ar.png</file>
+        <file>flecha_d.png</file>
+        <file>flecha_i.png</file>
+        <file>izquierda.png</file>
+        <file>kid_transparency.png</file>
+        <file>play_3.png</file>
+        <file>Programa Ingenieria Electronica.png</file>
+        <file>SLOGAN-UQ.png</file>
+        <file>stop_2.png</file>
+    </qresource>
+</RCC>
