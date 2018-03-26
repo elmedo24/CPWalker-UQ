@@ -1,0 +1,13 @@
+materiales            cantidad
+- arduino nano         1
+- bornera de 2         1    
+- drive puente h       1
+- regulador 7805       2
+- capacitores          4
+-modulo wfi            1 
+- molex kk de 4        2   (2 hembra por 1 macho )
+- molex kk de 5        2   (2 hembra por 1 macho )
+- molex kk de 6        1    (2 hembra por 1 macho )
+-moles kk de 2         2
+- regleta macho de 16  1
+- reglet hembra de 40  1
